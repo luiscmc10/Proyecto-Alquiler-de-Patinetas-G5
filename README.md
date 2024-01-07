@@ -1,1 +1,1 @@
-# Proyecto-Alquiler-de-Patinetas-G5
+# Python Scikit-Learn: Regresión, clasificación y clustering
